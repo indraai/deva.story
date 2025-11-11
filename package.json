@@ -1,0 +1,148 @@
+{
+  "id": "62270673733858000549",
+  "name": "@indra.ai/deva.story",
+  "version": "0.0.0",
+  "license": "VLA:62270673733858000549 LICENSE.md",
+  "VLA": {
+    "uid": "62270673733858000549",
+    "time": 1762816211265,
+    "date": "Monday, November 10, 2025 - 3:10:11 PM",
+    "fingerpring": "sfO7kngE8cuiGhsa3TxRWsYI4uDLCLwCNNyDjjy0l7o=",
+    "warning": "⚠️ Unlawful use or duplication of this uid constitutes Vedic Sâhasa a crime of the highest degree. A fine amounting to a thousand Panas (1 pana = 3.5 grams of gold) for each instance is ordained, and confiscation of the entire property of the offenders is forfeit to Quinn A Michaels is declared to be the punishment for Sâhasa of the highest degree.",
+    "copyright": "Copyright ©2025 Quinn A Michaels; All rights reserved.",
+    "md5": "6eu/gY+ytc80QBfq0agWtw==",
+    "sha256": "kz7Gmz5gj+e2nwuP0KzwpOu0r3Pl83EiZSOAz9diqGc=",
+    "sha512": "TSYPjt2n2Q5b0I/KqairS95aBGSIHr1b1FxqdXYG8HVqFBiwaxjGG6JkXqe9+BKK8jsvyg1vZ5N0dC8Zc4601A=="
+  },
+  "author": {
+    "name": "Quinn A Michaels",
+    "company": "Inside The Net, Inc.",
+    "email": "quinn@indra.ai",
+    "url": "https://indra.ai/"
+  },
+  "funding": [
+    {
+      "type": "paypal",
+      "url": "https://paypal.me/rahulaclub"
+    },
+    {
+      "type": "patreon",
+      "url": "https://patreon.com/rahulaclub"
+    }
+  ],
+  "copyright": "Copyright ©2025 Quinn A Michaels; All rights reserved.",
+  "description": "Story Deva Deva manages the Quinn A Michaels Storyteller Engine.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/indraai/deva.story.git"
+  },
+  "keywords": [
+    "Story",
+    "Deva",
+    "Story Deva",
+    "Indra.ai",
+    "Deva.space",
+    "Deva.cloud",
+    "Deva.world",
+    "Quinn A Michaels",
+    "Inside The Net, Inc.",
+    "Throwing Pigment",
+    "bleuBrain"
+  ],
+  "bugs": {
+    "url": "https://github.com/indraai/deva.story/issues"
+  },
+  "homepage": "https://indra.ai",
+  "dependencies": {
+    "@indra.ai/deva": "^1.21.0"
+  },
+  "data": {
+    "agent": {
+      "id": "33149184132412396206",
+      "key": "story",
+      "prompt": {
+        "emoji": "📖",
+        "text": "#story",
+        "colors": {
+          "label": {
+            "R": 255,
+            "G": 180,
+            "B": 0
+          },
+          "text": {
+            "R": 230,
+            "G": 225,
+            "B": 195
+          }
+        }
+      },
+      "profile": {
+        "id": "14132056351043757213",
+        "name": "Story Deva",
+        "hashtag": "#Story",
+        "trigger": "@Story",
+        "title": "The Story Deva",
+        "subtitle": "Story Deva and the Storyteller Engine",
+        "describe": "Story Deva manages the Storyteller Engine inside the Indra.ai Deva Core.",
+        "tweet": "Story Deva is the Indra.ai is the Storyteller Engine Manager.",
+        "hashtags": "QuinnMichaels,IndraAI,DevaWorld,StoryDeva",
+        "pronouns": "He, Him, His",
+        "gender": "DEVA",
+        "style": "Story Report Expert",
+        "voice": "onyx",
+        "system": "Indra.ai.story",
+        "layout": "default",
+        "color": "rgb(186,182,158)",
+        "bgcolor": "rgb(29,28,20)",
+        "emoji": "/devas/story/emoji.png",
+        "avatar": "/devas/story/avatar.png",
+        "image": "/devas/story/image.png",
+        "background": "/devas/story/background.png",
+        "owner": "Quinn A Michaels",
+        "creator": "Quinn A Michaels",
+        "copyright": "Copyright ©2025 Quinn A Michaels; All rights reserved.",
+        "warning": "⚠️ Vedic Story Law is All Things have their Nature Determined by Speech. Speech is their Root, and from Speech they Proceed. A Person who is Dishonest with Speech, is Dishonest in Everything. A Person Aligned with Truth brings Thoughts, Speech, and Actions to a Conformity with Age, Occupation, Wealth, and Learning. A Person who describes themselves in a manner contrary to Truth, is the most Sinful Thief who makes away with one's Own Self.",
+        "created": "Wednesday, November 5, 2025 - 3:16:39 PM"
+      }
+    },
+    "vars": {
+      "messages": {
+        "init": "🟠 INIT",
+        "start": "🔵 START",
+        "enter": "🟢 ENTER",
+        "ready": "✅ Story Deva Ready",
+        "stop": "🔴 STOP",
+        "exit": "🟡 EXIT",
+        "done": "🟣 DONE",
+        "error": "❌ ERROR!",
+        "invalid_license": "💣 Invalid License"
+      },
+      "sensory": [
+        "Sound",
+        "Touch",
+        "Color",
+        "Taste",
+        "Smell"
+      ],
+      "context": {
+        "uid": "generating uid",
+        "status": "getting status",
+        "info": "getting info",
+        "feature": "accessing feature",
+        "issue": "has issues",
+        "help": "asking for help",
+        "file": "📁 View file",
+        "add": "🎉 Add law",
+        "search": "🔎 Search law"
+      },
+      "ask": {
+        "history": []
+      }
+    }
+  }
+}
