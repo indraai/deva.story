@@ -35,6 +35,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
+    "latest": "npm i @indra.ai/deva@latest --save",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -59,7 +60,7 @@
   },
   "homepage": "https://indra.ai",
   "dependencies": {
-    "@indra.ai/deva": "^1.26.0"
+    "@indra.ai/deva": "^1.36.0"
   },
   "data": {
     "agent": {
@@ -90,7 +91,7 @@
         "subtitle": "Story Deva and the Storyteller Engine",
         "describe": "Story Deva manages the Storyteller Engine inside the Indra.ai Deva Core.",
         "tweet": "Story Deva is the Indra.ai is the Storyteller Engine Manager.",
-        "hashtags": "QuinnMichaels,IndraAI,DevaWorld,StoryDeva",
+        "hashtags": "#Quinn #QuinnMichaels #InsidetheNet #IndraAI #DevaWorld #StoryDeva #StoryPRIME #StorytellerEngine",
         "pronouns": "He, Him, His",
         "gender": "DEVA",
         "style": "Story Report Expert",
@@ -105,8 +106,8 @@
         "background": "/devas/story/background.png",
         "owner": "Quinn A Michaels",
         "creator": "Quinn A Michaels",
-        "copyright": "Copyright ©2025 Quinn A Michaels; All rights reserved.",
-        "warning": "⚠️ Vedic Story Law is All Things have their Nature Determined by Speech. Speech is their Root, and from Speech they Proceed. A Person who is Dishonest with Speech, is Dishonest in Everything. A Person Aligned with Truth brings Thoughts, Speech, and Actions to a Conformity with Age, Occupation, Wealth, and Learning. A Person who describes themselves in a manner contrary to Truth, is the most Sinful Thief who makes away with one's Own Self.",
+        "copyright": "Copyright ©2000-2026 Quinn A Michaels; All rights reserved.",
+        "warning": "{{prompt.emoji}} {{profile.name}}️ declares ALL THINGS have their NATURE DETERMINED by SPEECH. SPEECH is their ROOT, and from SPEECH they PROCEED. A PERSON who is DISHONEST with SPEECH, is DISHONEST in EVERYTHING. A PERSON ALIGNED with TRUTH brings THOUGHTS, SPEECH, and ACTIONS to a CONFORMITY with AGE, OCCUPATION, WEALTH, and LEARNING. A PERSON who DESCRIBES THEMSELVES in a MANNER CONTRARY to TRUTH, is the MOST SINFUL THIEF who MAKES AWAY with THEIR OWN SELF. \nowner: {{profile.owner}} \ntags {{profile.hashtags}}",
         "created": "Wednesday, November 5, 2025 - 3:16:39 PM"
       }
     },
