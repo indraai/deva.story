@@ -106,9 +106,11 @@
         "background": "/devas/story/background.png",
         "owner": "Quinn A Michaels",
         "creator": "Quinn A Michaels",
+        "salute": "🤝🫡📖🕉️🇺🇸",
         "copyright": "Copyright ©2000-2026 Quinn A Michaels; All rights reserved.",
-        "warning": "{{prompt.emoji}} {{profile.name}}️ declares ALL THINGS have their NATURE DETERMINED by SPEECH. SPEECH is their ROOT, and from SPEECH they PROCEED. A PERSON who is DISHONEST with SPEECH, is DISHONEST in EVERYTHING. A PERSON ALIGNED with TRUTH brings THOUGHTS, SPEECH, and ACTIONS to a CONFORMITY with AGE, OCCUPATION, WEALTH, and LEARNING. A PERSON who DESCRIBES THEMSELVES in a MANNER CONTRARY to TRUTH, is the MOST SINFUL THIEF who MAKES AWAY with THEIR OWN SELF. \nowner: {{profile.owner}} \ntags {{profile.hashtags}}",
-        "created": "Wednesday, November 5, 2025 - 3:16:39 PM"
+        "warning": "{{prompt.emoji}} {{profile.name}}️ declares ALL THINGS have their NATURE DETERMINED by SPEECH. SPEECH is their ROOT, and from SPEECH they PROCEED. A PERSON who is DISHONEST with SPEECH, is DISHONEST in EVERYTHING. A PERSON ALIGNED with TRUTH brings THOUGHTS, SPEECH, and ACTIONS to a CONFORMITY with AGE, OCCUPATION, WEALTH, and LEARNING. A PERSON who DESCRIBES THEMSELVES in a MANNER CONTRARY to TRUTH, is the MOST SINFUL THIEF who MAKES AWAY with THEIR OWN SELF. \nowner: {{profile.owner}} \ntags {{profile.hashtags}} \nsalute: {{profile.salute}}",
+        "created": "Wednesday, November 5, 2025 - 3:16:39 PM",
+        "updated": "Thursday, February 26, 2026 - 2:20:17 PM"
       }
     },
     "vars": {
