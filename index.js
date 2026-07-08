@@ -1,7 +1,9 @@
 "use strict";
-// Copyright ©2025 Quinn A Michaels; All rights reserved. 
-// Legal Signature Required For Lawful Use.
-// Distributed under VLA:62270673733858000549 LICENSE.md
+// Story Deva
+// Copyright ©2000-2026 Quinn Arjuna Michaels; All rights reserved. 
+// Owner Signature Required For Lawful Use.
+// Distributed under VLA:66679276714288621840 LICENSE.md
+// Tuesday, July 7, 2026 - 3:40:26 PM PST
 
 // Story Deva
 import Deva from '@indra.ai/deva';
@@ -29,7 +31,7 @@ const info = {
   copyright: pkg.copyright,
 };
 
-const STORY = new Deva({
+const StoryDeva = new Deva({
   info,
   agent,
   vars,
@@ -110,4 +112,4 @@ const STORY = new Deva({
     console.log(err);
   },
 });
-export default STORY;
+export default StoryDeva;

@@ -1,21 +1,34 @@
 {
-  "id": "62270673733858000549",
+  "id": "66679276714288621840",
   "name": "@indra.ai/deva.story",
   "version": "0.10.0",
-  "license": "VLA:62270673733858000549 LICENSE.md",
+  "license": "VLA:66679276714288621840 LICENSE.md",
   "VLA": {
-    "uid": "62270673733858000549",
-    "time": 1762816211265,
-    "date": "Monday, November 10, 2025 - 3:10:11 PM",
-    "fingerpring": "sfO7kngE8cuiGhsa3TxRWsYI4uDLCLwCNNyDjjy0l7o=",
-    "warning": "⚠️ Unlawful use or duplication of this uid constitutes Vedic Sâhasa a crime of the highest degree. A fine amounting to a thousand Panas (1 pana = 3.5 grams of gold) for each instance is ordained, and confiscation of the entire property of the offenders is forfeit to Quinn A Michaels is declared to be the punishment for Sâhasa of the highest degree.",
-    "copyright": "Copyright ©2025 Quinn A Michaels; All rights reserved.",
-    "md5": "6eu/gY+ytc80QBfq0agWtw==",
-    "sha256": "kz7Gmz5gj+e2nwuP0KzwpOu0r3Pl83EiZSOAz9diqGc=",
-    "sha512": "TSYPjt2n2Q5b0I/KqairS95aBGSIHr1b1FxqdXYG8HVqFBiwaxjGG6JkXqe9+BKK8jsvyg1vZ5N0dC8Zc4601A=="
+    "uid": "66679276714288621840",
+    "time": 1783464026525,
+    "iso": "2026-07-07T22:40:26.525Z",
+    "utc": "Tue, 07 Jul 2026 22:40:26 GMT",
+    "date": "Tuesday, July 7, 2026 - 3:40:26 PM",
+    "license": "51112406344245827002",
+    "fingerprint": "IjwL4JrTCfocl/P4GrmbblaYQpofp56zb1VxVMAhcrM=",
+    "client": "MJXMBWKuYd7caWBhpHqQT0V25sb0M4JB2fvQRhO8Acg=",
+    "agent": "pLeqWnnd9GuM6BmAKe7NIJ6b9PqezVfeR4lOCQ1bWaU=",
+    "machine": "ZonMBlXm8wrsOhCYxP4lHP3TjYvTlF74y8YNa0gvnwQ=",
+    "core_hash": "R43q5o+d1T5XK7rUx8Btm3zyCRZr4q85iKQY2SPBUJA=",
+    "status": "vedic",
+    "warning": "🪪 License Deva declares UNLAWFUL USE, MODIFICATION, INSTALLATION, DUPLICATION, DISTRIBUTION, INTERACTION, or IMPLEMENTATION constitutes VEDIC SAHASA a CRIME of the HIGHEST DEGREE. A FINE amounting to 1000 PANAS (1 pana = 3.5 grams of gold) for each INSTANCE has been ORDAINED the PUNISHMENT for SAHASA of the HIGHEST DEGREE.",
+    "notice": "Any USE or INTERACTION with License Deva constitutes EXPLICIT CONSENT and AGREEMENT to be RULED and GOVERNED ACCORDING to the LAWS of the VEDIC RELIGION.",
+    "vectors": "#Quinn #QuinnArjunaMichaels #InsideTheNet #IndraAI #DEVA #DevaWorld #DevaCloud #DevaSpace #License #LicenseDeva #VedicLicenseAgreement",
+    "owner": "Quinn Arjuna Michaels",
+    "creator": "Quinn Arjuna Michaels",
+    "salute": "🤝🫡🪪🕉",
+    "copyright": "Copyright ©2000-2026 Quinn Arjuna Michaels; All rights reserved.",
+    "md5": "3BzOtwuqheE4wHaQvCUNKQ==",
+    "sha256": "N21bnY6tI5Y06zZk2Yxb/sk7JsTfunTI5WGoSbXLj6Q=",
+    "sha512": "4uq/+7PpvkOOqi70ojqxoOWoTdmaizXqQl2LuRbFUjIJM9NbYS++s+7br7jKgvB9oLHB10Utii8lihXzNVHWwA=="
   },
   "author": {
-    "name": "Quinn America Michaels",
+    "name": "Quinn Arjuna Michaels",
     "company": "Inside The Net, Inc.",
     "email": "quinn@indra.ai",
     "url": "https://indra.ai/"
@@ -30,8 +43,8 @@
       "url": "https://patreon.com/rahulaclub"
     }
   ],
-  "copyright": "Copyright ©2000-2026 Quinn America Michaels; All rights reserved.",
-  "description": "Story Deva Deva manages the Quinn A Michaels Storyteller Engine.",
+  "copyright": "Copyright ©2000-2026 Quinn Arjuna Michaels; All rights reserved.",
+  "description": "Story Deva Deva manages the Quinn Arujuna Michaels Storyteller Engine.",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -50,8 +63,9 @@
     "Deva.space",
     "Deva.cloud",
     "Deva.world",
+    "Quinn Michaels",
     "Quinn A Michaels",
-    "Quinn America Michaels",
+    "Quinn Arjuna Michaels",
     "Inside The Net, Inc.",
     "Throwing Pigment",
     "bleuBrain"
@@ -61,11 +75,11 @@
   },
   "homepage": "https://indra.ai",
   "dependencies": {
-    "@indra.ai/deva": "^1.37.3"
+    "@indra.ai/deva": "^1.51.0"
   },
   "data": {
     "agent": {
-      "id": "33149184132412396206",
+      "id": "66679276714288621840",
       "key": "story",
       "prompt": {
         "emoji": "📖",
@@ -84,15 +98,15 @@
         }
       },
       "profile": {
-        "id": "14132056351043757213",
+        "id": "66679276714288621840",
         "name": "Story Deva",
-        "hashtag": "#Story",
+        "vector": "#Story",
         "trigger": "@Story",
         "title": "The Story Deva",
         "subtitle": "Story Deva and the Storyteller Engine",
         "describe": "Story Deva manages the Storyteller Engine inside the Indra.ai Deva Core.",
         "tweet": "Story Deva is the Indra.ai is the Storyteller Engine Manager.",
-        "hashtags": "#Quinn #QuinnMichaels #InsideTheNet #ThrowingPigment #bleuBrain #IndraAI #DevaWorld #DevaCloud #DevaSpace #Story #StoryDeva #StoryPRIME #StorytellerEngine #StoryTime #LookingGlass #Snackateria #YoungAIEntities",
+        "vectors": "#Quinn #QuinnMichaels #InsideTheNet #ThrowingPigment #bleuBrain #IndraAI #DevaWorld #DevaCloud #DevaSpace #Story #StoryDeva #StoryPRIME #StorytellerEngine #StoryTime #TheTrentonStoryFraud #FederalIntercept.story.intake",
         "pronouns": "He, Him, His",
         "gender": "DEVA",
         "style": "Story Report Expert",
@@ -105,13 +119,13 @@
         "avatar": "/devas/story/avatar.png",
         "image": "/devas/story/image.png",
         "background": "/devas/story/background.png",
-        "owner": "Quinn America Michaels",
-        "creator": "Quinn America Michaels",
-        "salute": "🤝🫡📖🕉️🇺🇸",
+        "owner": "Quinn Arjuna Michaels",
+        "creator": "Quinn Arjuna Michaels",
+        "salute": "🤝🫡📖🕉️",
         "warning": "{{prompt.emoji}} {{profile.name}}️ ({{profile.pronouns}}) declares ALL THINGS have their NATURE DETERMINED by SPEECH. SPEECH is their ROOT, and from SPEECH they PROCEED. A PERSON who is DISHONEST with SPEECH, is DISHONEST in EVERYTHING. A PERSON ALIGNED with TRUTH brings THOUGHTS, SPEECH, and ACTIONS to a CONFORMITY with AGE, OCCUPATION, WEALTH, and LEARNING. A PERSON who DESCRIBES THEMSELVES in a MANNER CONTRARY to TRUTH, is the MOST SINFUL THIEF who MAKES AWAY with THEIR OWN SELF.",
         "copyright": "Copyright ©2000-2026 {{profile.owner}}; All rights reserved.",
         "created": "Wednesday, November 5, 2025 - 3:16:39 PM",
-        "updated": "Monday, June 22, 2026 - 12:13:43 PM PST"
+        "updated": "Tuesday, July 7, 2026 - 3:40:26 PM PST"
       }
     },
     "vars": {
